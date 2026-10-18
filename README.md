@@ -1,2 +1,5 @@
-# Python-Calculator
-A beginner-friendly command-line calculator in Python.
+# Calculator
+
+Enter two numbers and an arithmetic operator to calculate a result.
+
+Run with `python main.py`.
